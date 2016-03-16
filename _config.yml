@@ -1,0 +1,28 @@
+name: vinum mundi
+favicon: null
+layout_spectrum: 0.22427642717957497
+typography_spectrum: 0.7376394413877279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4426566958427429
+  lightness: 0.04201045725494623
+  saturation: 0.5160446893423796
+  rhythmicContrast: 0.15844133286736906
+purpose: []
